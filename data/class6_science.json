@@ -1,0 +1,14 @@
+{
+  "mcqs": [
+    {
+      "question": "Which part of a plant is usually used for food?",
+      "options": ["Root", "Stem", "Leaf", "All of the above"],
+      "answer": "All of the above"
+    },
+    {
+      "question": "Honey is made by:",
+      "options": ["Butterflies", "Mosquitoes", "Honey bees", "Ants"],
+      "answer": "Honey bees"
+    }
+  ]
+}
