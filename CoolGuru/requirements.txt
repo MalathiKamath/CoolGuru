@@ -1,0 +1,4 @@
+gradio
+openai
+pandas
+jinja2
